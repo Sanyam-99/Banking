@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+
+<resources>
+
+    <string name="app_name">Banking System</string>
+
+    <string name="banking_system_app">Banking System </string>
+
+    <string name="all_users"> Users</string>
+
+    <string name="all_transactions"> Transactions</string>
+
+</resources>
